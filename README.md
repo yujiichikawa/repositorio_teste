@@ -1,2 +1,4 @@
 # repositorio_teste
- teste repositorio
+ Meu repositorio
+
+ criado durante uma aula ao vivo
